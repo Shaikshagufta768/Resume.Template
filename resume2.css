@@ -1,0 +1,156 @@
+#col1{
+    border: 1px solid black;
+    width: 300px;
+    height: 1250px;
+    background-color:white;
+}
+.contactInfo
+{
+    padding-top: 40px;
+}
+.title{
+   color:#ddd;
+   text-transform: uppercase;
+   font-weight: 600;
+   letter-spacing: 1px;
+   margin-bottom: 20px;
+
+}
+.contactInfo ul 
+{
+    position: relative;
+}
+
+#l{
+    color: grey;
+}
+
+
+    position: relative;
+    list-style: none;
+    margin:10px 0;
+    cursor: pointer;
+}
+.contactInfo ul li.icon
+{
+    display: inline-block;
+    width:30px;
+    font-size: 18px;
+    color: aqua;
+}
+.contactInfo
+{
+    color:#ddd;
+    font-weight: 300;
+
+}
+.container.right_side
+{
+    position: relative;
+    color:skyblue ;
+}
+
+
+h4{
+    color:orange ;
+}
+
+h3{
+    color: brown;
+}
+h2{
+    color: black;
+
+}
+img{
+	height: 180px;
+	width: 180px;
+	background-color: #ddd;
+	border-radius: 50%;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	border: 10px  solid orange;
+	box-shadow: 6px 7px 9px 5px #fbb03b73;
+}
+
+#info{
+    background-color: #fbb03b;
+
+}
+#u{
+    color:#fbb03b;
+}
+#h{
+border: 5px solid brown;
+width: 730px;
+height:1260px;
+}
+#addr{
+    font-size: 16px;
+    font-family:Inder;
+}
+#d{
+    color: brown;
+}
+#b{
+    color:brown;
+}
+#i{
+    color: brown;
+}
+.contactInfo.language.percent
+{
+   position: relative;
+    width: 100%;
+    height: 6px;
+    background: #f00;
+    display:block;
+    margin-top: 5px;
+}
+
+#col2{
+    background-color:bisque;
+    height: 1250px;
+} 
+#u{
+    color:white;
+
+}
+
+skill-container{
+	width: 90%;
+	background-color: #4d4d4d;
+	margin: 0px 10px;
+}
+.skill{
+	text-align: right;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: red;
+}
+.html{
+	width: 90%;
+	background-color: red;
+}
+.css{
+	width: 80%;
+	background-color: red;
+}
+.js{
+	width: 85%;
+	background-color: red;
+}
+.jquery{
+	width: 80%;
+	background-color: red;
+}
+.web {
+	width: 85%;
+	background-color: red;
+}
+.gra{
+	width: 70%;
+	background-color:red;
+}  
+
+
